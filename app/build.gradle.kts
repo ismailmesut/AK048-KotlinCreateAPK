@@ -11,8 +11,8 @@ android {
         applicationId = "com.ismailmesutmujde.kotlincreateapk"
         minSdk = 24
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.3"
+        versionCode = 3
+        versionName = "1.5"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
